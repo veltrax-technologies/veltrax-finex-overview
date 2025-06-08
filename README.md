@@ -1,3 +1,4 @@
+
 # 💰 Finex — Private AI Platform for Banks & Credit Unions
 
 **Veltrax Technologies** is building the future of **private, profit-driven AI** — and Finex is our flagship platform for the financial sector.
@@ -48,3 +49,57 @@ Example JSON output (demo data only):
   "new_revenue_generated": 287000,
   "roi_percent": 221.4
 }
+```
+
+> With Finex, you don’t guess if AI is working — you measure it.
+
+---
+
+## 🧩 Core Modules
+
+Finex is fully modular and built for enterprise environments:
+
+| Module                  | Purpose                                                                 |
+|--------------------------|-------------------------------------------------------------------------|
+| 📑 Transactions           | Real-time feed of all customer activity                                 |
+| 🔒 Fraud Detection        | AI-driven scoring + alerts with full audit trails                       |
+| 💰 Loan Intelligence      | AI-powered loan recommendations and risk analysis                       |
+| 📈 Profitability Advisor  | Strategic recommendations to cut costs and grow ROI                     |
+| 👥 User & Role Management | Enterprise-level control and permissions                                |
+| ⚙️ Admin Settings         | ML toggles, thresholds, and configurations                              |
+| 📄 Reports                | On-demand or scheduled ROI, fraud, and performance PDFs                 |
+
+---
+
+## 🧠 Built By Veltrax Technologies
+
+Veltrax Technologies is creating the most advanced **private AI platforms** in the world — built for profitability, privacy, and precision.
+
+**Industry Platforms:**
+- 💳 [Finex](https://github.com/veltrax-public/veltrax-finex-overview) – for Banking & Finance  
+- 🛍️ ÉCHELON – for Retail & Customer Analytics  
+- ⚖️ Verdict – for Legal Intelligence & Case Scoring  
+
+We don’t build “nice dashboards.”  
+We build **engines that turn AI into ROI.**
+
+---
+
+## 🔒 No Source Code Shared
+
+This repository is a **public product overview only.**  
+Finex is a proprietary AI platform built by Veltrax Technologies. Source code is not included.
+
+---
+
+## 📬 Request a Private Demo
+
+📩 Email: [veltrax@zohomail.com](mailto:veltrax@zohomail.com)  
+🔗 LinkedIn: [Veltrax Technologies](https://linkedin.com/company/veltrax-technologies) 
+
+---
+
+## # Tags for Visibility
+
+#PrivateAI #Finex #Veltrax #FraudDetection #LoanIntelligence #BankingAI #EnterpriseAI  
+#ProfitDrivenAI #AIforFinance #LLM #ROITracking #CreditUnionTech #SecureAI
