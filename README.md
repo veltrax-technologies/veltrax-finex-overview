@@ -1,4 +1,3 @@
-
 # 💰 Finex — Private AI Platform for Banks & Credit Unions
 
 **Veltrax Technologies** is building the future of **private, profit-driven AI** — and Finex is our flagship platform for the financial sector.
@@ -96,7 +95,7 @@ Finex is a proprietary AI platform built by Veltrax Technologies. Source code is
 
 📩 Email: [veltrax@zohomail.com](mailto:veltrax@zohomail.com)  
 🔗 LinkedIn: [Veltrax Technologies](https://linkedin.com/company/veltrax-technologies) 
-
+🌐 Learn more: [https://veltrax-technologies.github.io/veltrax.github.io/](https://veltrax-technologies.github.io/veltrax.github.io/)
 ---
 
 ## # Tags for Visibility
